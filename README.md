@@ -1,4 +1,14 @@
-## Olá! Eu sou o Antonio Vinicius
+### Olá eu sou Vinicius 👋 
+
+Sou um desenvolvedor de 21 anos que mora em São Paulo e sou apaixonado por criar experiências digitais.
+
+
+## 🔭 Projetos Atuais
+
+Atualmente trabalho como desenvolvedor fullstack em São Paulo, onde minha jornada envolve construção e aprendizado. Aqui está o que estou focado atualmente:
+
+- Estou envolvido em projetos fullstack emocionantes.
+- Estou explorando diferentes ferramentas e bibliotecas para aprimorar meu conjunto de habilidades.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOnii&layout=compact)
 
