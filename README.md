@@ -10,7 +10,7 @@ Atualmente trabalho como desenvolvedor fullstack em São Paulo, onde minha jorna
 - Estou envolvido em projetos fullstack emocionantes.
 - Estou explorando diferentes ferramentas e bibliotecas para aprimorar meu conjunto de habilidades.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOnii&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOnii&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center"src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white  ">
